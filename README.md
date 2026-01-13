@@ -46,25 +46,25 @@ This repository is intended primarily for academic and learning purposes and may
            src="https://github.com/user-attachments/assets/b50b9abb-0a33-48ee-a375-7641b7661b7d" />
     </li>
     <br>
+ul>
+  <li>
+    <strong>VDC:</strong><br>
+    <img width="519" height="199" alt="VDC Parameters"
+         src="https://github.com/user-attachments/assets/0bec6686-2cb1-480a-8bf4-ef6bd028ab1f" />
+  </li>
 
-    <li><strong>VDC:</strong><br>
-      <img width="519" height="199" alt="VDC Parameters"
-           src="https://github.com/user-attachments/assets/0bec6686-2cb1-480a-8bf4-ef6bd028ab1f" />
-    </li>
-    <br>
+  <li>
+    <strong>Transient Analysis specifications:</strong><br>
+    <img width="672" height="558" alt="Transient Analysis"
+         src="https://github.com/user-attachments/assets/34cc00b3-87dd-48b4-a49a-61a8b6e3a204" />
+  </li>
 
-    <li><strong>Transient Analysis specifications:</strong><br>
-      <img width="672" height="558" alt="Transient Analysis"
-           src="https://github.com/user-attachments/assets/34cc00b3-87dd-48b4-a49a-61a8b6e3a204" />
-    </li>
-    <br>
-
-    <li><strong>DC Sweep:</strong><br>
-      <img width="664" height="565" alt="DC Sweep"
-           src="https://github.com/user-attachments/assets/ccf3e0ca-8744-4fa6-be36-957b93d5970d" />
-    </li>
-  </ul>
-
+  <li>
+    <strong>DC Sweep:</strong><br>
+    <img width="664" height="565" alt="DC Sweep"
+         src="https://github.com/user-attachments/assets/ccf3e0ca-8744-4fa6-be36-957b93d5970d" />
+  </li>
+</ul>
   <br>
 
   <h2>Outputs:</h2>
