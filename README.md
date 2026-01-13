@@ -46,7 +46,7 @@ This repository is intended primarily for academic and learning purposes and may
            src="https://github.com/user-attachments/assets/b50b9abb-0a33-48ee-a375-7641b7661b7d" />
     </li>
     <br>
-ul>
+
   <li>
     <strong>VDC:</strong><br>
     <img width="519" height="199" alt="VDC Parameters"
