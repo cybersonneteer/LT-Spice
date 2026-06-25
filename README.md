@@ -3,10 +3,9 @@ This repository documents my work with LTspice simulations carried out as part o
 
 The purpose of this repository is to systematically record my learning progress, reinforce theoretical concepts through practical implementation, and maintain a structured reference for future revision. The contents may be updated or refined over time as my understanding of low-power VLSI techniques improves.
 
-This repository is intended primarily for academic and learning purposes and may also be useful to fellow students exploring LTspice and low-power CMOS/VLSI design.
 
 <details>
-  <summary><strong> 13/01/2026: CMOS NAND Gate</strong></summary>
+  <summary><strong> 13/01/2026: CMOS Inverter Gate</strong></summary>
 
   <br>
 
@@ -89,7 +88,7 @@ This repository is intended primarily for academic and learning purposes and may
 
 </details>
 <details>
-  <summary><strong> 03/02/2026: CMOS Inverter</strong></summary>
+  <summary><strong> 03/02/2026: CMOS NAND Gate</strong></summary>
 A CMOS NAND gate is a fundamental digital logic circuit implemented using complementary NMOS and PMOS transistors in a pull-down and pull-up network configuration. The NMOS transistors are connected in series to form the pull-down network, ensuring the output is driven low only when all inputs are high, while the PMOS transistors are connected in parallel to form the pull-up network, driving the output high whenever at least one input is low. This complementary structure provides full logic level swing, high noise margins, and very low static power consumption, as ideally no direct path exists between the supply and ground in steady states. Due to its robustness, efficiency, and functional completeness, the CMOS NAND gate serves as a core building block in the design of larger digital systems such as arithmetic units, memory circuits, and control logic.
 
 
