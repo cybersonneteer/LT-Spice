@@ -6,7 +6,7 @@ The purpose of this repository is to systematically record my learning progress,
 This repository is intended primarily for academic and learning purposes and may also be useful to fellow students exploring LTspice and low-power CMOS/VLSI design.
 
 <details>
-  <summary><strong> 13/01/2026: CMOS Inverter</strong></summary>
+  <summary><strong> 13/01/2026: CMOS NAND Gate</strong></summary>
 
   <br>
 
